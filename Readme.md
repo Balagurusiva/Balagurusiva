@@ -23,8 +23,9 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <p>Front End Techs>>></p><img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,redux" />
-    <p>Programming Languvages>>></p><img src="https://skillicons.dev/icons?i=java,javascript,python" />
+    <p>Front End Techs</p><img src="https://skillicons.dev/icons?i=html,css,javascript,react,redux,tailwind" />
+    <p>Back End Techs</p><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+    <p>Programming Languvages</p><img src="https://skillicons.dev/icons?i=java,javascript,python" />
   </a>
 </p>
 
