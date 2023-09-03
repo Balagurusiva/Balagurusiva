@@ -35,3 +35,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Balagurusiva&show_icons=true&locale=en" alt="balaguru" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Balagurusiva&" alt="balaguru" /></p>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
