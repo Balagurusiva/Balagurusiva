@@ -18,10 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/jairoyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jairoyy" height="30" width="40" /></a>
-<a href="https://twitter.com/jairoy22012560" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jairoy22012560" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jai-suriya-49aa0121a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jai-suriya-49aa0121a" height="30" width="40" /></a>
-<a href="https://hashnode.com/@jaisuriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@jaisuriya" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/balaguru4017" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Balaguru" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
