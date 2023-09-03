@@ -36,4 +36,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Balagurusiva&" alt="balaguru" /></p>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Balagurusiva&limit=5&theme=flat&combine_all_yearly_contributions=true)
