@@ -23,15 +23,15 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <p>**Front End Techs**</p><img src="https://skillicons.dev/icons?i=html,css,javascript,react,redux,tailwind,materialui" />
-    <p>**Back End Techs**</p><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-    <p>**Programming Languvages**</p><img src="https://skillicons.dev/icons?i=java,javascript,python" />
-    <p>**Other Tools**</p><img src="https://skillicons.dev/icons?i=figma,netlify,git,github,vscode" />
+    <h3>Front End Techs</h3><img src="https://skillicons.dev/icons?i=html,css,javascript,react,redux,tailwind,materialui" />
+    <h3>Back End Techs</h3><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+    <h3>Programming Languvages</h3><img src="https://skillicons.dev/icons?i=java,javascript,python" />
+    <h3>Other Tools</h3><img src="https://skillicons.dev/icons?i=figma,netlify,git,github,vscode" />
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jairoyy&show_icons=true&locale=en&layout=compact" alt="jairoyy" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Balagurusiva&show_icons=true&locale=en&layout=compact" alt="balaguru" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jairoyy&show_icons=true&locale=en" alt="jairoyy" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Balagurusiva&show_icons=true&locale=en" alt="balaguru" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jairoyy&" alt="jairoyy" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Balagurusiva&" alt="balaguru" /></p>
