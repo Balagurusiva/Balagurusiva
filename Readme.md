@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate with **web Dev**
 
-- 👨‍💻 All of my worksample are available at [https://github.com/Balagurusiva?tab=repositories)
+- 👨‍💻 All of my worksample are available at **https://github.com/Balagurusiva?tab=repositories**
 
 - 📫 How to reach me **balagurusiva2002@gmail.com**
 
