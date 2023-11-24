@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **balagurusiva2002@gmail.com**
 
-- 🌐 Portfolio **https://balaguru-s.netlify.app/**
+- 🌐 Portfolio **[https://balaguru-s.netlify.app/](https://portfolio-two-drab-38.vercel.app/)**
 
 
 <h3 align="left">Connect with me:</h3>
