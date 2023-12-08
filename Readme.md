@@ -26,7 +26,7 @@
   <a href="https://skillicons.dev">
     <h3>Front End Techs</h3><img src="https://skillicons.dev/icons?i=html,css,javascript,react,redux,tailwind,materialui" />
     <h3>Back End Techs</h3><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-    <h3>Programming Languvages</h3><img src="https://skillicons.dev/icons?i=java,javascript,python" />
+    <h3>Programming Languvages</h3><img src="https://skillicons.dev/icons?i=java,javascript" />
     <h3>Other Tools</h3><img src="https://skillicons.dev/icons?i=figma,netlify,git,github,vscode" />
   </a>
 </p>
